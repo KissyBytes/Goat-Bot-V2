@@ -1,7 +1,7 @@
 
 module.exports = {
 	config: {
-		name: "bb",
+		name: "bb","kissy",
 		aliases: ["blackbox"],
 		version: "1.0",
 		author: "Samir Œ",
