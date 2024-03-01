@@ -3,7 +3,7 @@ const axios = require('axios');
 module.exports = {
  config: {
  name: "kissy",
- aliases: [`kis`],
+ aliases: [`Ai`],
  version: "2.1.0",
  author: "Orochi Team",
  longDescription: "chatgpt",
